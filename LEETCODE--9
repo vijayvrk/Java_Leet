@@ -2,7 +2,7 @@
 
 class Solution {
     public boolean isPalindrome(int x) { 
-
+ 
         int org=x;
         int rev=0;
 
