@@ -1,7 +1,7 @@
 // Palindrome Number-----
 
 class Solution {
-    public boolean isPalindrome(int x) {
+    public boolean isPalindrome(int x) { 
 
         int org=x;
         int rev=0;
