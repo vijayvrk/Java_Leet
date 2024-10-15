@@ -8,7 +8,7 @@ class Solution {
 
         int upperCount = 0;  
         
-        for (int i = 0; i < n; i++) { 
+        for (int i = 0; i < n; i++) {   
             if (Character.isUpperCase(word.charAt(i))) {
                 upperCount++;
             }
