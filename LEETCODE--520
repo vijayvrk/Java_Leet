@@ -6,7 +6,7 @@ class Solution {
         int n = word.length();
         if (n == 0) return true;
 
-        int upperCount = 0;
+        int upperCount = 0;  
         
         for (int i = 0; i < n; i++) { 
             if (Character.isUpperCase(word.charAt(i))) {
