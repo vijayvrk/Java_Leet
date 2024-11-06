@@ -1,4 +1,4 @@
-// String rotatation
+// String rotatation 
 
 class Solution { 
     public boolean rotateString(String s, String goal) {
